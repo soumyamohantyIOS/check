@@ -19,7 +19,8 @@
     // Override point for customization after application launch.
     NSLog(@"");
     NSLog(@"ABCD");
-    NSString *gga =@"":
+    NSString *gga =@"";
+     NSString *ggab =@"";
     return YES;
 }
 
